@@ -29,7 +29,7 @@ const Footer = () => {
                 Shurly
               </Link>
               <p className="mt-3 max-w-sm text-sm leading-6 text-muted-foreground">
-                Sveriges smartaste URL-förkortare. Vi har som mål att hjälpa svenska företag och kreatörer att nå
+                En smartaste URL-förkortare. Vi har som mål att hjälpa svenska företag och kreatörer att nå
                 längre med kortare länkar.
               </p>
             </div>

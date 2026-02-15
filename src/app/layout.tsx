@@ -11,9 +11,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Shurly - Sveriges smartaste URL-förkortare",
+  title: "Shurly - En smartaste URL-förkortare",
   description:
-    "Korta dina länkar, utöka din räckvidd. Sveriges snabbaste och mest pålitliga URL-förkortare.",
+    "Korta dina länkar, utöka din räckvidd. en pålitliga URL-förkortare.",
 };
 
 export default function RootLayout({
